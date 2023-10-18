@@ -1,0 +1,7 @@
+A common task in research synthesis projects, like meta-analysis or systematic reviews, is the screening of individual studies for inclusion.
+
+In this YouTube video, a quick tutorial is presented to show how to create a simple interface to facilitate the screening process.
+
+YOUTUBE VIDEO: https://youtu.be/7KbKuZm6JFk
+
+Lajeunesse, M.J. 2021. Screening studies with Microsoft Excel for systematic reviews and meta-analysis. Figshare. https://dx.doi.org/10.6084/m9.figshare.14179655
